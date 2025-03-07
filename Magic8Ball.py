@@ -16,7 +16,7 @@ def magicball():
   if ball_choice == 1:
     print("Yes for sure!")
   elif ball_choice == 2:
-    print("Thas a yes")
+    print("Thats a yes")
   elif ball_choice == 3:
     print("i can't tell you that now")
   elif ball_choice == 4:
@@ -28,6 +28,6 @@ def magicball():
   elif ball_choice == 7:
     print("Maybe in the Future")
   else:
-    print("Error worng input")
+    print("Error wrong input!")
 
 magicball()
